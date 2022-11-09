@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "ampifygraphqlcapston5f6ec1dd": {}
+      },
+      "api": {
+        "ampifygraphqlcapston": {}
+      },
+      "storage": {
+        "s3b70a41c3": {}
       }
     }
   }

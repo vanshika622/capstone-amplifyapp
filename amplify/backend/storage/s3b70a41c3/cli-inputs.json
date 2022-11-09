@@ -1,0 +1,14 @@
+{
+  "resourceName": "s3b70a41c3",
+  "policyUUID": "b70a41c3",
+  "bucketName": "ampifygraphqlcapstonda38398eb565441b99ac9ef3504",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
